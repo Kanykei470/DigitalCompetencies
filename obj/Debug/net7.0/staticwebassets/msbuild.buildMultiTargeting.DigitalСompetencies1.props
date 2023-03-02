@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DigitalСompetencies1.props" />
+</Project>
