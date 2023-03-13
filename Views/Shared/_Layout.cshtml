@@ -4,9 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - DigitalСompetencies1</title>
+    <link rel="stylesheet" href="~/css/1.css"/>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/bootstrap.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/DigitalСompetencies1.styles.css" asp-append-version="true" />
+
 </head>
 <body>
     <header>
@@ -27,6 +28,13 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" @Html.ActionLink("Тестируемый","slogin","Home")</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" @Html.ActionLink("Dashboard","Dashboard","Home")</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" @Html.ActionLink("Вопросы","AddQuestion","Home")</a>
                         </li>
                        
                     </ul>

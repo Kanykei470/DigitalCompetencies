@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\DigitalСompetencies1.bundle.scp.css"
     },
     {
+      "Id": "D:\\DigitalСompetencies1\\wwwroot\\css\\1.css",
+      "PackagePath": "staticwebassets\\css\\1.css"
+    },
+    {
       "Id": "D:\\DigitalСompetencies1\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
@@ -87,6 +91,22 @@
     {
       "Id": "D:\\DigitalСompetencies1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DigitalСompetencies1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\DigitalСompetencies1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\DigitalСompetencies1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\DigitalСompetencies1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
       "Id": "D:\\DigitalСompetencies1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
